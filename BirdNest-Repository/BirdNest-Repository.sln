@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirdNest", "BirdNest\BirdNest.csproj", "{5EB60C93-78C4-43DE-82C7-E27A54DE9763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleUse", "ExampleUse\ExampleUse.csproj", "{63D6A263-36A3-43D1-87FE-959B4281F98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB60C93-78C4-43DE-82C7-E27A54DE9763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB60C93-78C4-43DE-82C7-E27A54DE9763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB60C93-78C4-43DE-82C7-E27A54DE9763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB60C93-78C4-43DE-82C7-E27A54DE9763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D6A263-36A3-43D1-87FE-959B4281F98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D6A263-36A3-43D1-87FE-959B4281F98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D6A263-36A3-43D1-87FE-959B4281F98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D6A263-36A3-43D1-87FE-959B4281F98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76897522-F6D7-457E-A9C8-58827A453900}
+	EndGlobalSection
+EndGlobal
